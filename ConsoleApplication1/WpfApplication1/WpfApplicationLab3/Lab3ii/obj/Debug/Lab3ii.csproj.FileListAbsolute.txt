@@ -1,0 +1,14 @@
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\bin\Debug\Lab3ii.exe.config
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\bin\Debug\Lab3ii.exe
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\bin\Debug\Lab3ii.pdb
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\Lab3ii.csprojResolveAssemblyReference.cache
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\MainWindow.g.cs
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\App.g.cs
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\Lab3ii_MarkupCompile.cache
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\Lab3ii_MarkupCompile.lref
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\MainWindow.baml
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\Lab3ii.g.resources
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\Lab3ii.Properties.Resources.resources
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\Lab3ii.csproj.GenerateResource.Cache
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\Lab3ii.exe
+X:\ConsoleApplication1\WpfApplication1\WpfApplicationLab3\Lab3ii\obj\Debug\Lab3ii.pdb

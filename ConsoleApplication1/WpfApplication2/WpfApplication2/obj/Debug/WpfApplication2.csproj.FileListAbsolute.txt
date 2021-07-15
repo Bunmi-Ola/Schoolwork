@@ -1,0 +1,1 @@
+X:\ConsoleApplication1\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config

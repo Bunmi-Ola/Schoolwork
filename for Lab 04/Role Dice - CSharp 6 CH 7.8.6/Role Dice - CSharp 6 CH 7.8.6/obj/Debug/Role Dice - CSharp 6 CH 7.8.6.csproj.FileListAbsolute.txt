@@ -1,0 +1,6 @@
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\Role Dice - CSharp 6 CH 7.8.6\Role Dice - CSharp 6 CH 7.8.6\bin\Debug\Role Dice - CSharp 6 CH 7.8.6.exe.config
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\Role Dice - CSharp 6 CH 7.8.6\Role Dice - CSharp 6 CH 7.8.6\bin\Debug\Role Dice - CSharp 6 CH 7.8.6.exe
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\Role Dice - CSharp 6 CH 7.8.6\Role Dice - CSharp 6 CH 7.8.6\bin\Debug\Role Dice - CSharp 6 CH 7.8.6.pdb
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\Role Dice - CSharp 6 CH 7.8.6\Role Dice - CSharp 6 CH 7.8.6\obj\Debug\Role Dice - CSharp 6 CH 7.8.6.csprojResolveAssemblyReference.cache
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\Role Dice - CSharp 6 CH 7.8.6\Role Dice - CSharp 6 CH 7.8.6\obj\Debug\Role Dice - CSharp 6 CH 7.8.6.exe
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\Role Dice - CSharp 6 CH 7.8.6\Role Dice - CSharp 6 CH 7.8.6\obj\Debug\Role Dice - CSharp 6 CH 7.8.6.pdb

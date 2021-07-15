@@ -1,0 +1,17 @@
+X:\Arrays\Database\Database\bin\Debug\Database.exe.config
+X:\Arrays\Database\Database\bin\Debug\CustomerAccount.mdf
+X:\Arrays\Database\Database\bin\Debug\CustomerAccount_log.ldf
+X:\Arrays\Database\Database\bin\Debug\Database.exe
+X:\Arrays\Database\Database\bin\Debug\Database.pdb
+X:\Arrays\Database\Database\obj\Debug\MainWindow.g.cs
+X:\Arrays\Database\Database\obj\Debug\App.g.cs
+X:\Arrays\Database\Database\obj\Debug\Database_Content.g.cs
+X:\Arrays\Database\Database\obj\Debug\Database_MarkupCompile.cache
+X:\Arrays\Database\Database\obj\Debug\Database_MarkupCompile.lref
+X:\Arrays\Database\Database\obj\Debug\MainWindow.baml
+X:\Arrays\Database\Database\obj\Debug\Database.g.resources
+X:\Arrays\Database\Database\obj\Debug\Database.Properties.Resources.resources
+X:\Arrays\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+X:\Arrays\Database\Database\obj\Debug\Database.exe
+X:\Arrays\Database\Database\obj\Debug\Database.pdb
+X:\Arrays\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache

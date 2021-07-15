@@ -1,0 +1,6 @@
+X:\ConsoleApplication1\personalpractice1\personalpractice1\bin\Debug\personalpractice1.exe.config
+X:\ConsoleApplication1\personalpractice1\personalpractice1\bin\Debug\personalpractice1.exe
+X:\ConsoleApplication1\personalpractice1\personalpractice1\bin\Debug\personalpractice1.pdb
+X:\ConsoleApplication1\personalpractice1\personalpractice1\obj\Debug\personalpractice1.csprojResolveAssemblyReference.cache
+X:\ConsoleApplication1\personalpractice1\personalpractice1\obj\Debug\personalpractice1.exe
+X:\ConsoleApplication1\personalpractice1\personalpractice1\obj\Debug\personalpractice1.pdb

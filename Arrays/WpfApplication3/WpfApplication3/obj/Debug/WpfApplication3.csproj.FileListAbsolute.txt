@@ -1,0 +1,17 @@
+X:\Arrays\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\Database Programming.g.cs
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_Content.g.cs
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+X:\Arrays\WpfApplication3\WpfApplication3\bin\Debug\CustomerAccount.mdf
+X:\Arrays\WpfApplication3\WpfApplication3\bin\Debug\CustomerAccount_log.ldf
+X:\Arrays\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+X:\Arrays\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\Database Programming.baml
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+X:\Arrays\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb

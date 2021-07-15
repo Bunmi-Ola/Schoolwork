@@ -1,0 +1,19 @@
+﻿<Window x:Class="_255MTQAOlanrewaju.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_255MTQAOlanrewaju"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="255.375" Width="467.997">
+    <Grid>
+        <Label x:Name="OriginalTicketpricelabel" Content="Original Ticket Price:" HorizontalAlignment="Left" Margin="66,37,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="DistanceTraveledlabel" Content="Distance Traveled" HorizontalAlignment="Left" Margin="66,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="NewTicketlabel" Content="New Ticket" HorizontalAlignment="Left" Margin="66,124,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Calculatebutton" Content="Calculate" HorizontalAlignment="Left" Margin="347,87,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.629,0.391" Click="Calculatebutton_Click"/>
+        <TextBox x:Name="OriginalTicketpricetextBox" HorizontalAlignment="Left" Height="23" Margin="189,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="DistanceTraveledtextBox" HorizontalAlignment="Left" Height="23" Margin="189,79,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="NewTickettextBox" HorizontalAlignment="Left" Height="23" Margin="189,127,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" VerticalScrollBarVisibility="Visible"/>
+
+    </Grid>
+</Window>

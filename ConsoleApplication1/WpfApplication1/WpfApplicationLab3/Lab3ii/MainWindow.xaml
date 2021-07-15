@@ -1,0 +1,22 @@
+﻿<Window x:Class="Lab3ii.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab3ii"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="434.59" Width="365.391">
+    <Grid Margin="10,0,0,0">
+        <Label x:Name="loanPrinicpal" Content="Loan Principal" HorizontalAlignment="Left" Margin="11,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="loanPrincipal" HorizontalAlignment="Left" Height="23" Margin="123,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <Label x:Name="MonthlyPayment" Content="Monthly Payments" HorizontalAlignment="Left" Margin="11,41,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="monthlypay" HorizontalAlignment="Left" Height="23" Margin="123,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <Label x:Name="AnnualRate" Content="Annual Interest Rate" HorizontalAlignment="Left" Margin="11,75,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="annualrate" HorizontalAlignment="Left" Height="23" Margin="135,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" />
+        <Label x:Name="NumMonth" Content="Number of Months" HorizontalAlignment="Left" Margin="11,104,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="NumMonths" HorizontalAlignment="Left" Height="23" Margin="135,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" />
+        <Button x:Name="calculatebutton" Content="Calculate" HorizontalAlignment="Left" Margin="219,104,0,0" VerticalAlignment="Top" Width="118" Height="26" Click="calculatebutton_Click"/>
+        <ListBox x:Name="outputlistBox" HorizontalAlignment="Left" Height="250" Margin="20,136,0,0" VerticalAlignment="Top" Width="292"/>
+
+    </Grid>
+</Window>

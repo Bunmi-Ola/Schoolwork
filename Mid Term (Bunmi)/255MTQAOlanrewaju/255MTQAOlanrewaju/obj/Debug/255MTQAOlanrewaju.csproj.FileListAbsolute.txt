@@ -1,0 +1,28 @@
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\bin\Debug\255MTQAOlanrewaju.exe.config
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\bin\Debug\255MTQAOlanrewaju.exe
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\bin\Debug\255MTQAOlanrewaju.pdb
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.csprojResolveAssemblyReference.cache
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\MainWindow.g.cs
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\App.g.cs
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju_MarkupCompile.cache
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju_MarkupCompile.lref
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\MainWindow.baml
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.g.resources
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\_255MTQAOlanrewaju.Properties.Resources.resources
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.csproj.GenerateResource.Cache
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.exe
+X:\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.pdb
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\bin\Debug\255MTQAOlanrewaju.exe.config
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.exe
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.pdb
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\bin\Debug\255MTQAOlanrewaju.exe
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\bin\Debug\255MTQAOlanrewaju.pdb
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.csprojResolveAssemblyReference.cache
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\MainWindow.g.cs
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\App.g.cs
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju_MarkupCompile.cache
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju_MarkupCompile.lref
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\MainWindow.baml
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.g.resources
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\_255MTQAOlanrewaju.Properties.Resources.resources
+X:\Mid Term (Bunmi)\255MTQAOlanrewaju\255MTQAOlanrewaju\obj\Debug\255MTQAOlanrewaju.csproj.GenerateResource.Cache

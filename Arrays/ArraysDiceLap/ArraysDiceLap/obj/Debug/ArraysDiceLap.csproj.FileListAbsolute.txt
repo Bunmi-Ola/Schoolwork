@@ -1,0 +1,14 @@
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\bin\Debug\ArraysDiceLap.exe.config
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\bin\Debug\ArraysDiceLap.exe
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\bin\Debug\ArraysDiceLap.pdb
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\ArraysDiceLap.csprojResolveAssemblyReference.cache
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\MainWindow.g.cs
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\App.g.cs
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\ArraysDiceLap_MarkupCompile.cache
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\ArraysDiceLap_MarkupCompile.lref
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\MainWindow.baml
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\ArraysDiceLap.g.resources
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\ArraysDiceLap.Properties.Resources.resources
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\ArraysDiceLap.csproj.GenerateResource.Cache
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\ArraysDiceLap.exe
+X:\Arrays\ArraysDiceLap\ArraysDiceLap\obj\Debug\ArraysDiceLap.pdb

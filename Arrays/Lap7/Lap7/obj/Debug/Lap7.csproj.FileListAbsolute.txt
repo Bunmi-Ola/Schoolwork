@@ -1,0 +1,14 @@
+X:\Arrays\Lap7\Lap7\bin\Debug\Lap7.exe.config
+X:\Arrays\Lap7\Lap7\obj\Debug\Lap7.csprojResolveAssemblyReference.cache
+X:\Arrays\Lap7\Lap7\obj\Debug\MainWindow.g.cs
+X:\Arrays\Lap7\Lap7\obj\Debug\App.g.cs
+X:\Arrays\Lap7\Lap7\obj\Debug\Lap7_MarkupCompile.cache
+X:\Arrays\Lap7\Lap7\obj\Debug\Lap7_MarkupCompile.lref
+X:\Arrays\Lap7\Lap7\bin\Debug\Lap7.exe
+X:\Arrays\Lap7\Lap7\bin\Debug\Lap7.pdb
+X:\Arrays\Lap7\Lap7\obj\Debug\MainWindow.baml
+X:\Arrays\Lap7\Lap7\obj\Debug\Lap7.g.resources
+X:\Arrays\Lap7\Lap7\obj\Debug\Lap7.Properties.Resources.resources
+X:\Arrays\Lap7\Lap7\obj\Debug\Lap7.csproj.GenerateResource.Cache
+X:\Arrays\Lap7\Lap7\obj\Debug\Lap7.exe
+X:\Arrays\Lap7\Lap7\obj\Debug\Lap7.pdb

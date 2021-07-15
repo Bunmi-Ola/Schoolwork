@@ -1,0 +1,48 @@
+﻿<Window x:Class="Lab002_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab002_Demo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="490.821" Width="525">
+    <Grid Margin="0,-3,0,3">
+        <TextBox x:Name="txtitem1" HorizontalAlignment="Left" Height="23" Margin="102,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtitem4" HorizontalAlignment="Left" Height="23" Margin="102,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtitem3" HorizontalAlignment="Left" Height="23" Margin="102,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="txtitem2" HorizontalAlignment="Left" Height="23" Margin="102,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Item1" Content="Item1" HorizontalAlignment="Left" Margin="37,58,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Item2" Content="Item2" HorizontalAlignment="Left" Margin="37,89,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Item3" Content="Item3" HorizontalAlignment="Left" Margin="37,115,0,0" VerticalAlignment="Top" />
+        <Label x:Name="Item4" Content="Item4" HorizontalAlignment="Left" Margin="37,143,0,0" VerticalAlignment="Top" />
+        <Label x:Name="Item5" Content="Subtotal" HorizontalAlignment="Left" Margin="37,193,0,0" VerticalAlignment="Top" />
+        <Label x:Name="Item1_Copy" HorizontalAlignment="Left" Margin="290,25,0,0" VerticalAlignment="Top" >
+            <Label x:Name="PST" Content="PST?" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.269,0.672"/>
+        </Label>
+        <Label x:Name="GST" Content="GST?" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="366,30,0,0"/>
+        <CheckBox x:Name="checkBoxPST1" Content="CheckBox" HorizontalAlignment="Left" Margin="290,66,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxPST2" Content="CheckBox" HorizontalAlignment="Left" Margin="290,91,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxGST1" Content="CheckBox" HorizontalAlignment="Left" Margin="378,66,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxPST4" Content="CheckBox" HorizontalAlignment="Left" Margin="290,143,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxGST4" Content="CheckBox" HorizontalAlignment="Left" Margin="378,143,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxPST3" Content="CheckBox" HorizontalAlignment="Left" Margin="290,115,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxGST3" Content="CheckBox" HorizontalAlignment="Left" Margin="378,115,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxGST2" Content="CheckBox" HorizontalAlignment="Left" Margin="378,91,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="subtotal" HorizontalAlignment="Left" Height="23" Margin="102,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Shipping" Content="Shipping" HorizontalAlignment="Left" Margin="37,218,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="shipping" HorizontalAlignment="Left" Height="23" Margin="102,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <RadioButton x:Name="radioButton" Content="Ship (add 2%)" HorizontalAlignment="Left" Margin="276,221,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton1" Content="Pickup" HorizontalAlignment="Left" Margin="276,241,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="TotalPST" Content="PST" HorizontalAlignment="Left" Margin="37,252,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="SumPST" HorizontalAlignment="Left" Height="23" Margin="102,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="TotalGST" Content="GST" HorizontalAlignment="Left" Margin="37,277,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="SumGST" HorizontalAlignment="Left" Height="23" Margin="102,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Total" Content="TOTAL" HorizontalAlignment="Left" Margin="37,308,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="TOTAL" HorizontalAlignment="Left" Height="23" Margin="102,311,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Gobutton" Content="Calculate" Margin="276,308,51,0" VerticalAlignment="Top" Height="26" Click="Gobutton_Click"/>
+        <Label x:Name="SalesCommission" Content="Sales Commission" HorizontalAlignment="Left" Margin="37,362,0,0" VerticalAlignment="Top" Height="26"/>
+        <TextBox x:Name="COMMISSION" HorizontalAlignment="Left" Height="23" Margin="162,365,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.37,0.548"/>
+        <TextBox x:Name="ErrorBox" HorizontalAlignment="Left" Height="49" Margin="37,406,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="412" BorderThickness="0"/>
+
+    </Grid>
+</Window>

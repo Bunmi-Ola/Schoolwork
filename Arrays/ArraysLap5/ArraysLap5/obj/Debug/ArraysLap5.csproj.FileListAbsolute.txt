@@ -1,0 +1,6 @@
+X:\Arrays\ArraysLap5\ArraysLap5\bin\Debug\ArraysLap5.exe.config
+X:\Arrays\ArraysLap5\ArraysLap5\bin\Debug\ArraysLap5.exe
+X:\Arrays\ArraysLap5\ArraysLap5\bin\Debug\ArraysLap5.pdb
+X:\Arrays\ArraysLap5\ArraysLap5\obj\Debug\ArraysLap5.csprojResolveAssemblyReference.cache
+X:\Arrays\ArraysLap5\ArraysLap5\obj\Debug\ArraysLap5.exe
+X:\Arrays\ArraysLap5\ArraysLap5\obj\Debug\ArraysLap5.pdb

@@ -1,0 +1,17 @@
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\bin\Debug\Calculator-simple function demo.exe.config
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\bin\Debug\Calculator-simple function demo.exe
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\bin\Debug\Calculator-simple function demo.pdb
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\Calculator-simple function demo.csprojResolveAssemblyReference.cache
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\MainWindow.g.cs
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\App.g.cs
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\Calculator-simple function demo_MarkupCompile.cache
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\Calculator-simple function demo_MarkupCompile.lref
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\MainWindow.baml
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\Calculator-simple function demo.g.resources
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\Calculator_simple_function_demo.Properties.Resources.resources
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\Calculator-simple function demo.csproj.GenerateResource.Cache
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\Calculator-simple function demo.exe
+C:\Users\Shiers\Documents\Visual Studio 2015\Projects\for Lab04\Calculator-simple function demo\Calculator-simple function demo\obj\Debug\Calculator-simple function demo.pdb
+\\dutch\pccommon\Comp255\Demonstration Applications\for Lab04\Calculator-simple function demoV2\Calculator-simple function demo\bin\Debug\Calculator-simple function demo.exe.config
+\\dutch\pccommon\Comp255\Demonstration Applications\for Lab04\Calculator-simple function demoV2\Calculator-simple function demo\obj\Debug\Calculator-simple function demo.exe
+\\dutch\pccommon\Comp255\Demonstration Applications\for Lab04\Calculator-simple function demoV2\Calculator-simple function demo\obj\Debug\Calculator-simple function demo.pdb

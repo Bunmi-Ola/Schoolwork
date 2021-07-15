@@ -1,0 +1,14 @@
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\bin\Debug\Lab002-Demo.exe.config
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\bin\Debug\Lab002-Demo.exe
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\bin\Debug\Lab002-Demo.pdb
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\Lab002-Demo.csprojResolveAssemblyReference.cache
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\MainWindow.g.cs
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\App.g.cs
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\Lab002-Demo_MarkupCompile.cache
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\Lab002-Demo_MarkupCompile.lref
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\MainWindow.baml
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\Lab002-Demo.g.resources
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\Lab002_Demo.Properties.Resources.resources
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\Lab002-Demo.csproj.GenerateResource.Cache
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\Lab002-Demo.exe
+X:\ConsoleApplication\Lab002-Demo\Lab002-Demo\obj\Debug\Lab002-Demo.pdb

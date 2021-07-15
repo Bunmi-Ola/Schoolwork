@@ -1,0 +1,31 @@
+﻿<Window x:Class="Lap7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lap7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="151*"/>
+            <RowDefinition Height="168*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="firstname" Content="First Name:" HorizontalAlignment="Left" Margin="8,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.101,0.047"/>
+        <Label x:Name="lastname" Content="Last Name:" HorizontalAlignment="Left" Margin="8,101,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.101,0.047"/>
+        <Label x:Name="accountnumber" Content="Account Number:" HorizontalAlignment="Left" Margin="8,134,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.101,0.047" Grid.RowSpan="2"/>
+        <Label x:Name="balance" Content="Balance:" HorizontalAlignment="Left" Margin="8,15.15,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.101,0.047" Grid.Row="1"/>
+        <Button x:Name="previusbutton" Content="&lt; &lt; Previous" HorizontalAlignment="Left" Margin="14,32,0,0" VerticalAlignment="Top" Width="75" Click="previusbutton_Click" />
+        <Button x:Name="nextbutton" Content="Next &gt; &gt;" HorizontalAlignment="Left" Margin="134,32,0,0" VerticalAlignment="Top" Width="75" Click="nextbutton_Click" />
+        <Button x:Name="LoadButton" Content="Load List" HorizontalAlignment="Left" Margin="241,33,0,0" VerticalAlignment="Top" Width="75" Click="Loadbutton_Click"/>
+        <Button x:Name="savebutton" Content="Save" HorizontalAlignment="Left" Margin="241,108,0,0" VerticalAlignment="Top" Width="75" Click="savebutton_Click" />
+        <TextBox x:Name="FirstNametextBox" HorizontalAlignment="Left" Height="23" Margin="110,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="LastNametextBox" HorizontalAlignment="Left" Height="23" Margin="110,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="AccountNumbertextBox" HorizontalAlignment="Left" Height="23" Margin="110,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.RowSpan="2"/>
+        <TextBox x:Name="BalancetextBox" HorizontalAlignment="Left" Height="23" Margin="110,15.15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Row="1"/>
+        <ListBox x:Name="OutputlistBox" HorizontalAlignment="Left" Height="288" Margin="327,10,0,0" VerticalAlignment="Top" Width="174" SelectionChanged="OutputlistBox_SelectionChanged" Grid.RowSpan="2"/>
+        <Button x:Name="DeleteButton" Content="Delete" HorizontalAlignment="Left" Margin="241,147,0,0" VerticalAlignment="Top" Width="75" Click="DeleteButton_Click" Grid.RowSpan="2" />
+        <Button x:Name="AddNewButton" Content="Add New" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="241,73,0,0" Click="AddNewButton_Click"/>
+
+    </Grid>
+</Window>

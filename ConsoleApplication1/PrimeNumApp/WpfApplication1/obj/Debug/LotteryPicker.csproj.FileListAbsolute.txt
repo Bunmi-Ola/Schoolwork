@@ -1,0 +1,14 @@
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\bin\Debug\WpfApplication1.exe
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\bin\Debug\WpfApplication1.pdb
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\LotteryPicker.csprojResolveAssemblyReference.cache
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\MainWindow.g.cs
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\App.g.cs
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\MainWindow.baml
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\LotteryPicker.csproj.GenerateResource.Cache
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\WpfApplication1.exe
+X:\ConsoleApplication1\PrimeNumApp\WpfApplication1\obj\Debug\WpfApplication1.pdb

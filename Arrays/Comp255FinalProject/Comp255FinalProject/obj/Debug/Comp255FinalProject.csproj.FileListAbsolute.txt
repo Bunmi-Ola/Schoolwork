@@ -1,0 +1,17 @@
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\bin\Debug\Comp255FinalProject.exe.config
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\bin\Debug\ShoppingCart.mdf
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\bin\Debug\ShoppingCart_log.ldf
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\bin\Debug\Comp255FinalProject.exe
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\bin\Debug\Comp255FinalProject.pdb
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject.csprojResolveAssemblyReference.cache
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\MainWindow.g.cs
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\App.g.cs
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject_Content.g.cs
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject_MarkupCompile.cache
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject_MarkupCompile.lref
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\MainWindow.baml
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject.g.resources
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject.Properties.Resources.resources
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject.csproj.GenerateResource.Cache
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject.exe
+X:\Arrays\Comp255FinalProject\Comp255FinalProject\obj\Debug\Comp255FinalProject.pdb

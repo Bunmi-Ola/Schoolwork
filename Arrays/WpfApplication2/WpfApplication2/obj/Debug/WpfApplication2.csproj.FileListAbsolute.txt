@@ -1,0 +1,1 @@
+X:\Arrays\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config

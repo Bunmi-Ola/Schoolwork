@@ -1,0 +1,6 @@
+X:\ConsoleApplication1\LAB\LAB1.2\LAB1.2\bin\Debug\LAB1.2.exe.config
+X:\ConsoleApplication1\LAB\LAB1.2\LAB1.2\bin\Debug\LAB1.2.exe
+X:\ConsoleApplication1\LAB\LAB1.2\LAB1.2\bin\Debug\LAB1.2.pdb
+X:\ConsoleApplication1\LAB\LAB1.2\LAB1.2\obj\Debug\LAB1.2.csprojResolveAssemblyReference.cache
+X:\ConsoleApplication1\LAB\LAB1.2\LAB1.2\obj\Debug\LAB1.2.exe
+X:\ConsoleApplication1\LAB\LAB1.2\LAB1.2\obj\Debug\LAB1.2.pdb

@@ -1,0 +1,57 @@
+﻿<Window x:Class="Comp255FinalProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Comp255FinalProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="858.467" Width="607.085">
+    <Grid>
+        <ListBox x:Name="InvoiceslistBox" HorizontalAlignment="Left" Height="141" Margin="20,35,0,0" VerticalAlignment="Top" Width="559" FontFamily="Consolas" SelectionChanged="InvoiceslistBox_SelectionChanged"/>
+        <Label x:Name="Invoiceslabel" Content="Invoices" HorizontalAlignment="Left" Height="25" Margin="22,10,0,0" VerticalAlignment="Top" Width="123" FontWeight="Bold" FontSize="13"/>
+        <Label x:Name="InvoiceRecordlabel" Content="Invoice Record" HorizontalAlignment="Left" Height="25" Margin="20,176,0,0" VerticalAlignment="Top" Width="123" FontWeight="Bold" FontSize="13"/>
+        <Label x:Name="InvoiceIDlabel" Content="Invoice ID" HorizontalAlignment="Left" Height="26" Margin="32,206,0,0" VerticalAlignment="Top" Width="74"/>
+        <TextBox x:Name="InvoiceIDtextBox" HorizontalAlignment="Left" Height="23" Margin="102,208,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="69" />
+        <Label x:Name="InvoiceDatelabel" Content="Invoice Date" HorizontalAlignment="Left" Height="26" Margin="193,206,0,0" VerticalAlignment="Top" Width="93"/>
+        <TextBox x:Name="InvoiceDatetextBox" HorizontalAlignment="Left" Height="23" Margin="275,208,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97"/>
+        <CheckBox x:Name="ShippingcheckBox" Content="Shipped" HorizontalAlignment="Left" Margin="395,208,0,0" VerticalAlignment="Top" Height="21"/>
+        <Label x:Name="CustomerNamelabel" Content="Customer Name" HorizontalAlignment="Left" Height="26" Margin="18,275,0,0" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="CustomerNametextBox" HorizontalAlignment="Left" Height="23" Margin="136,277,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="233" />
+        <Label x:Name="CustomerAddresslabel" Content="Customer Address" HorizontalAlignment="Left" Height="26" Margin="20,307,0,0" VerticalAlignment="Top" Width="111"/>
+        <TextBox x:Name="CustomerAddresstextBox" HorizontalAlignment="Left" Height="47" Margin="136,309,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" />
+        <Label x:Name="CustomerEmaillabel" Content="Customer Email" HorizontalAlignment="Left" Height="26" Margin="29,235,0,0" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="CustomerEmailtextBox" Height="23" Margin="122,237,156,0" TextWrapping="Wrap" VerticalAlignment="Top" />
+        <Button x:Name="IncoicesSaveNewbutton" Content="Save New" HorizontalAlignment="Left" Margin="483,267,0,0" VerticalAlignment="Top" Width="96" Height="35" Click="IncoicesSaveNewbutton_Click" />
+        <Button x:Name="IncoicesDeletebutton" Content="Delete" HorizontalAlignment="Left" Margin="384,321,0,0" VerticalAlignment="Top" Width="91" Height="35"/>
+        <Button x:Name="IncoicesNewbutton" Content="New" HorizontalAlignment="Left" Margin="384,267,0,0" VerticalAlignment="Top" Width="91" Height="35" Click="IncoicesNewbutton_Click"/>
+        <Button x:Name="IncoicesLoadbutton" Content="Load" HorizontalAlignment="Left" Margin="481,217,0,0" VerticalAlignment="Top" Width="95" Height="36" FontSize="15" Click="IncoicesLoadbutton_Click"/>
+        <Button x:Name="IncoicesUpdatebutton" Content="Update Existing" HorizontalAlignment="Left" Margin="484,321,0,0" VerticalAlignment="Top" Width="95" Height="35" Click="IncoicesUpdatebutton_Click"/>
+        <Label x:Name="InvoiceItemslabel" Content="InvoiceItems" HorizontalAlignment="Left" Height="25" Margin="22,374,0,0" VerticalAlignment="Top" Width="123" FontWeight="Bold" FontSize="13"/>
+        <ListBox x:Name="ItemlistBox" HorizontalAlignment="Left" Height="175" Margin="22,399,0,0" VerticalAlignment="Top" Width="557" FontFamily="Consolas" SelectionChanged="ItemlistBox_SelectionChanged"/>
+        <Label x:Name="InvoiceItemsRecordlabel" Content="Invoice Items Record" HorizontalAlignment="Left" Height="25" Margin="22,579,0,0" VerticalAlignment="Top" Width="149" FontWeight="Bold" FontSize="13"/>
+        <Label x:Name="ItemIDLabel" Content="Item ID" HorizontalAlignment="Left" Margin="29,602,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ItemIDtextBox" HorizontalAlignment="Left" Height="23" Margin="82,606,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="54"/>
+        <Label x:Name="ItemNameLabel" Content="Item Name" HorizontalAlignment="Left" Margin="140,602,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ItemNametextBox" HorizontalAlignment="Left" Height="23" Margin="212,606,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112"/>
+        <Label x:Name="ItemDescriptionLabel" Content="Item Description" HorizontalAlignment="Left" Margin="324,602,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ItemDescriptiontextBox" HorizontalAlignment="Left" Height="23" Margin="419,606,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161"/>
+        <Label x:Name="ItemPriceLabel" Content="Item Price" HorizontalAlignment="Left" Margin="29,633,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ItemPricetextBox" HorizontalAlignment="Left" Height="23" Margin="96,637,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="54"/>
+        <Label x:Name="ItemQuantityLabel" Content="Item Quantity" HorizontalAlignment="Left" Margin="167,635,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ItemQuantitytextBox" HorizontalAlignment="Left" Height="23" Margin="252,639,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="54"/>
+        <Label x:Name="SubtotalLabel" Content="Subtotal" HorizontalAlignment="Left" Margin="29,667,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="SubtotaltextBox" HorizontalAlignment="Left" Height="23" Margin="96,671,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="TotalLabel" Content="Total" HorizontalAlignment="Left" Margin="29,699,0,0" VerticalAlignment="Top" Width="49"/>
+        <TextBox x:Name="TotaltextBox" HorizontalAlignment="Left" Height="23" Margin="96,703,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="PSTLabel" Content="PST (6%)" HorizontalAlignment="Left" Margin="327,635,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="PSTtextBox" HorizontalAlignment="Left" Height="23" Margin="389,639,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="54"/>
+        <Label x:Name="GSTLabel" Content="GST (5%)" HorizontalAlignment="Left" Margin="459,635,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="GSTtextBox" HorizontalAlignment="Left" Height="23" Margin="521,639,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="54"/>
+        <Button x:Name="IncoiceItemsSaveNewbutton" Content="Save New" HorizontalAlignment="Left" Margin="490,675,0,0" VerticalAlignment="Top" Width="94" Height="35"/>
+        <Button x:Name="IncoiceItemsDeletebutton" Content="Delete" HorizontalAlignment="Left" Margin="285,678,0,0" VerticalAlignment="Top" Width="90" Height="35"/>
+        <Button x:Name="IncoiceItemsNewbutton" Content="New" HorizontalAlignment="Left" Margin="183,680,0,0" VerticalAlignment="Top" Width="89" Height="35"/>
+        <Button x:Name="IIncoiceItemsUpdatebutton" Content="Update Existing" HorizontalAlignment="Left" Margin="384,678,0,0" VerticalAlignment="Top" Width="93" RenderTransformOrigin="1.833,0.372" Height="35"/>
+        <Label x:Name="errorMessageLabel" HorizontalAlignment="Left" Margin="82,751,0,0" VerticalAlignment="Top" Height="47" Width="415"/>
+
+    </Grid>
+</Window>
